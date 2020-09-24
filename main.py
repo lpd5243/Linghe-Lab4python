@@ -1,9 +1,9 @@
 # Author: Linghe Du lpd5243@psu.edu
-# Collaborator :
-# Collaborator :
-# Collaborator :
+# Collaborator : Seungki An sva5802@psu.edu
+# Collaborator : Jared Cole jcc6066@psu.edu
+# Collaborator : Eric Benditt erb5623@psu.edu
 # Section : 4
-# Breakout : 
+# Breakout : 12
 def num_of_divisors(n):
   ans = 1
   x = 2
@@ -46,7 +46,6 @@ def sum_n(n):
 given a non-negative int n, return the sum 0+1+2+...+n
 You must use a while cond: style loop for this function.
 """
-
 
 def print_n(s, n):
   for i in range(n):
