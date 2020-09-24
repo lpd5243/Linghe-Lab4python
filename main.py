@@ -1,3 +1,9 @@
+# Author: Linghe Du lpd5243@psu.edu
+# Collaborator :
+# Collaborator :
+# Collaborator :
+# Section : 4
+# Breakout : 
 def num_of_divisors(n):
   ans = 1
   x = 2
